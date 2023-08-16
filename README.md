@@ -24,8 +24,12 @@ To pursue further growth, I embarked on a full-stack engineering boot camp. I'm 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khanhking/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khanhking/" height="30" width="40" /></a>
 <a href="https://instagram.com/khanhkhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khanhkhin" height="30" width="40" /></a>
 </p>
-
 Feel free to connect with me on LinkedIn!
+
+## :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khanhnphan15&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnphan15&layout=compact&theme=vision-friendly-dark)](https://github.com/khanhnphan15/github-readme-stats)
 
 
 
