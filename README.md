@@ -1,6 +1,8 @@
-![Header](./your-header-image-name.png)
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" height="300"/>
+</div>
 
-# Hello! 👋
+<h2 align="center">Hello</h2>
 
 I'm Khanh King, an Entry-level software engineer currently enrolled in General Assembly's Software Engineering Immersive Program. I'm a dedicated and self-driven software engineer with a strong passion for creating exceptional software products.
 
