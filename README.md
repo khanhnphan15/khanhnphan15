@@ -17,7 +17,7 @@ To pursue further growth, I embarked on a full-stack engineering boot camp. I'm 
 
 - 📫 How to reach me: **khanhnphan15@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1HVVdPL1mRmK9ztG25HazakD-lrMQjFtY0vznn239FgE/edit)
+- 📄 Know about my experiences: [Khanh resume.pdf](https://github.com/khanhnphan15/khanhnphan15/files/12419079/Khanh.resume.pdf)
 
 - ⚡ Fun fact: I have a strong passion for Japanese culture and cuisine.
 
