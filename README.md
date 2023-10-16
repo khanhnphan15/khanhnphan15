@@ -17,7 +17,7 @@ I embarked on a full-stack engineering boot camp at the General Assembly to purs
 
 - 📫 How to reach me: **khanhnphan15@gmail.com**
 
-- 📄 Know about my experiences: [Khanh resume. pdf](https://github.com/khanhnphan15/khanhnphan15/blob/main/Khanh-resume-2023.pdf)
+- 📄 Know about my experiences: [My Resume (PDF)](https://github.com/khanhnphan15/khanhnphan15/blob/main/Khanh-resume-2023.pdf)
 
 - ⚡ Fun fact: I have a strong passion for Japanese culture and cuisine.
 
